@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.336ad166.css",
-    "main.js": "/static/js/main.c6e48b4f.js",
+    "main.css": "/static/css/main.10d00b89.css",
+    "main.js": "/static/js/main.74194505.js",
     "static/media/open-sans-all-400-normal.woff": "/static/media/open-sans-all-400-normal.cb2542fccedadc68d737.woff",
     "static/media/raleway-all-400-normal.woff": "/static/media/raleway-all-400-normal.98e7ff86f2b9a46e19cc.woff",
     "static/media/source-code-pro-all-400-normal.woff": "/static/media/source-code-pro-all-400-normal.7df0968e0f981f08d253.woff",
@@ -26,11 +26,11 @@
     "static/media/source-code-pro-vietnamese-400-normal.woff2": "/static/media/source-code-pro-vietnamese-400-normal.add6a1fe8239b714d178.woff2",
     "static/media/source-code-pro-greek-ext-400-normal.woff2": "/static/media/source-code-pro-greek-ext-400-normal.cc20b15eacd73fe42dfe.woff2",
     "index.html": "/index.html",
-    "main.336ad166.css.map": "/static/css/main.336ad166.css.map",
-    "main.c6e48b4f.js.map": "/static/js/main.c6e48b4f.js.map"
+    "main.10d00b89.css.map": "/static/css/main.10d00b89.css.map",
+    "main.74194505.js.map": "/static/js/main.74194505.js.map"
   },
   "entrypoints": [
-    "static/css/main.336ad166.css",
-    "static/js/main.c6e48b4f.js"
+    "static/css/main.10d00b89.css",
+    "static/js/main.74194505.js"
   ]
 }
